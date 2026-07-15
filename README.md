@@ -2,27 +2,57 @@
 
 Welcome to my Resume repository.
 
-This repository contains the latest version of my professional resume, highlighting my experience in Talent Acquisition, Full Cycle Recruitment, End to End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI Powered Recruitment, and Recruitment Analytics.
+This repository contains the latest version of my professional resume, showcasing my experience in Talent Acquisition, Full Cycle Recruitment, End-to-End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI-Powered Recruitment, and Recruitment Analytics.
 
-## Repository Contents
+---
 
-📄 Latest Resume (PDF)
+## 📄 Latest Resume
 
-The most up to date version of my professional resume.
+Click below to view or download the most up-to-date version of my resume:
 
-## Core Skills
+**[📥 Download Resume](./Anuska_Sidharth_Resume.pdf)**
+
+> **Note:** Replace `Anuska_Sidharth_Resume.pdf` with the exact name of your PDF file if it is different.
+
+---
+
+## 💼 Core Skills
 
 - Full Cycle Recruitment
-- End to End Recruitment
+- End-to-End Recruitment
 - Candidate Sourcing
-- Boolean Search
 - Talent Mapping
 - Market Mapping
+- Boolean Search
 - Stakeholder Management
 - Employer Branding
 - Recruitment Analytics
-- AI Powered Recruitment
+- AI-Powered Recruitment
 - Workday HCM
 - Microsoft Power BI
 
-Thank you for visiting my GitHub portfolio.
+---
+
+## 🎯 Areas of Expertise
+
+- Talent Acquisition
+- Recruitment Operations
+- AI-Assisted Recruiting
+- Recruitment Process Optimization
+- Recruitment Analytics
+- Market Intelligence
+- Candidate Engagement
+- Prompt Engineering for Recruitment
+- Data-Driven Hiring
+
+---
+
+## 📬 Connect With Me
+
+- **LinkedIn:** *Add your LinkedIn profile URL*
+- **GitHub:** *Add your GitHub profile URL*
+- **Email:** *Add your professional email address*
+
+---
+
+Thank you for visiting my GitHub portfolio. I appreciate your time and interest in my work.
