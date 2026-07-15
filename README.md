@@ -2,15 +2,15 @@
 
 Welcome to my Resume repository.
 
-This repository contains the latest version of my professional resume, highlighting my experience in Talent Acquisition, Full Cycle Recruitment, End-to-End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI-Powered Recruitment, and Recruitment Analytics.
+This repository contains the latest version of my professional resume, showcasing my experience in Talent Acquisition, Full Cycle Recruitment, End-to-End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI-Powered Recruitment, and Recruitment Analytics.
 
 ---
 
 ## 📄 Latest Resume
 
-Click the link below to view or download my latest resume.
+The latest version of my resume is available in this repository.
 
-**[📥 Download Resume](./Anuska_Sidharth_TA_Rec.pdf)**
+➡️ **Open `Anuska_Sidharth_TA Rec.pdf` from the file list to view or download the resume.**
 
 ---
 
@@ -47,14 +47,6 @@ Click the link below to view or download my latest resume.
 
 ---
 
-## 📂 Repository Contents
-
-- Latest Resume (PDF)
-- Professional Resume Repository
-- Updated versions will be maintained here
-
----
-
 ## 📬 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/anuska-sidharth
@@ -64,5 +56,3 @@ Click the link below to view or download my latest resume.
 ---
 
 Thank you for visiting my GitHub portfolio.
-
-Feel free to explore my repositories to learn more about my work in AI-powered Talent Acquisition, Recruitment Operations, Market Research, and Recruitment Analytics.
