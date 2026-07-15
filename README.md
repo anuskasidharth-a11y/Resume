@@ -2,17 +2,15 @@
 
 Welcome to my Resume repository.
 
-This repository contains the latest version of my professional resume, showcasing my experience in Talent Acquisition, Full Cycle Recruitment, End-to-End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI-Powered Recruitment, and Recruitment Analytics.
+This repository contains the latest version of my professional resume, highlighting my experience in Talent Acquisition, Full Cycle Recruitment, End-to-End Recruitment, Candidate Sourcing, Stakeholder Management, Employer Branding, Talent Mapping, Market Mapping, Boolean Search, AI-Powered Recruitment, and Recruitment Analytics.
 
 ---
 
 ## 📄 Latest Resume
 
-Click below to view or download the most up-to-date version of my resume:
+Click the link below to view or download my latest resume.
 
-**[📥 Download Resume](./Anuska_Sidharth_Resume.pdf)**
-
-> **Note:** Replace `Anuska_Sidharth_Resume.pdf` with the exact name of your PDF file if it is different.
+**[📥 Download Resume](./Anuska_Sidharth_TA_Rec.pdf)**
 
 ---
 
@@ -39,20 +37,32 @@ Click below to view or download the most up-to-date version of my resume:
 - Recruitment Operations
 - AI-Assisted Recruiting
 - Recruitment Process Optimization
-- Recruitment Analytics
+- Stakeholder Management
 - Market Intelligence
-- Candidate Engagement
-- Prompt Engineering for Recruitment
-- Data-Driven Hiring
+- Candidate Experience
+- Boolean Search Strategy
+- AI Workflow Design
+- Prompt Engineering
+- Power BI Reporting
+
+---
+
+## 📂 Repository Contents
+
+- Latest Resume (PDF)
+- Professional Resume Repository
+- Updated versions will be maintained here
 
 ---
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** *Add your LinkedIn profile URL*
-- **GitHub:** *Add your GitHub profile URL*
-- **Email:** *Add your professional email address*
+- **LinkedIn:** https://www.linkedin.com/in/anuska-sidharth
+- **GitHub:** https://github.com/anuskasidharth-a11y
+- **Email:** anuskasidharth@gmail.com
 
 ---
 
-Thank you for visiting my GitHub portfolio. I appreciate your time and interest in my work.
+Thank you for visiting my GitHub portfolio.
+
+Feel free to explore my repositories to learn more about my work in AI-powered Talent Acquisition, Recruitment Operations, Market Research, and Recruitment Analytics.
